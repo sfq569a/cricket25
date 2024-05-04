@@ -1,0 +1,17 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .inputs {
+    margin-bottom: 20px;
+  }
+  
+  #cameraFeed {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
